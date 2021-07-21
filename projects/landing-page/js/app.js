@@ -18,12 +18,22 @@
  * 
 */
 
+const mySection1= document.createElement('section');
+const mySection2=document.createElement('section');
+const mySection3=document.createElement('section');
+const mySection4=document.createElement('section');
+const docFragment=document.createDocumentFragment();
+sectionList=document.querySelectorAll('section');
+
 
 /**
  * End Global Variables
+
  * Start Helper Functions
  * 
 */
+
+
 
 
 
@@ -34,6 +44,10 @@
 */
 
 // build the nav
+
+
+
+
 
 
 // Add class 'active' to section when near top of viewport
