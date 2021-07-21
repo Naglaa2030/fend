@@ -18,6 +18,14 @@
  * 
 */
 
+const mySection1= document.createElement('section');
+const mySection2=document.createElement('section');
+const mySection3=document.createElement('section');
+const mySection4=document.createElement('section');
+
+
+
+
 
 /**
  * End Global Variables
